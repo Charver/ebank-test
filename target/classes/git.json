@@ -1,0 +1,28 @@
+
+{
+    "git.branch": "master",
+    "git.build.host": "DESKTOP-A3R661D",
+    "git.build.time": "2021-08-24T19:01:23+0600",
+    "git.build.user.email": "timur.skorobogatov@leadexsystems.ru",
+    "git.build.user.name": "Timur Skorobogatov",
+    "git.build.version": "1.0.1",
+    "git.closest.tag.commit.count": "",
+    "git.closest.tag.name": "",
+    "git.commit.author.time": "2021-08-24T19:01:12+0600",
+    "git.commit.committer.time": "2021-08-24T19:01:12+0600",
+    "git.commit.id": "12a6fbfe257faaa9d2ddda56fd49ab5c44b559a6",
+    "git.commit.id.abbrev": "12a6fbf",
+    "git.commit.id.describe": "12a6fbf-dirty",
+    "git.commit.id.describe-short": "12a6fbf-dirty",
+    "git.commit.message.full": "test props",
+    "git.commit.message.short": "test props",
+    "git.commit.time": "2021-08-24T19:01:12+0600",
+    "git.commit.user.email": "timur.skorobogatov@leadexsystems.ru",
+    "git.commit.user.name": "Timur Skorobogatov",
+    "git.dirty": "true",
+    "git.local.branch.ahead": "NO_REMOTE",
+    "git.local.branch.behind": "NO_REMOTE",
+    "git.remote.origin.url": "https://github.com/Charver/ebank-test.git",
+    "git.tags": "",
+    "git.total.commit.count": "2"
+}
